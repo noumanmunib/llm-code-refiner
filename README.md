@@ -31,7 +31,7 @@ We evaluate **three distinct refinement strategies**:
 **Status:** Extended Abstract submitted to **ICSE 2026**  
 **Year:** 2025  
 
-📑 *Read the Extended Abstract* (available in /paper/Bridging_Correctness_and_Quality_in_LLM_Code_Generation__A_Hybrid_Generate_and_Refine_Pipeline.pdf)
+📑 [Read the Extended Abstract (PDF)](paper/Bridging_Correctness_and_Quality_in_LLM_Code_Generation__A_Hybrid_Generate_and_Refine_Pipeline.pdf)
 
 ---
 
